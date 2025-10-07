@@ -1,0 +1,7 @@
+const sampleObject = {
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "isActive": true,
+    "changeRequest": "randomChangeRequest001"
+};
